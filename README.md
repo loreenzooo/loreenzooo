@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loreenzooo 
-- 👀 I’m interested in learning java and html/css 
-- 🌱 I’m currently learning ... java and html/css
+- 👀 I’m interested in learning Java, JavaScript and HTML/CSS 
+- 🌱 I’m currently learning ... Javascript, and  HTML/CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
