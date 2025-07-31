@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I play online games like, Valorant and MLBB!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
